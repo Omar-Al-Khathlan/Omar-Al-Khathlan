@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Omar-Al-Khathlan?tab=repositories).
 
-- 💬 Ask me about **Java, Python, Machine Learning.**
+- 💬 Ask me about **Java, SQL, Flutter, Python, Machine Learning.**
 
 - 📫 How to reach me **omarkhathlan@gmail.com**
 
