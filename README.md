@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Al-Khathlan</h1>
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-al-khathlan&theme=nord&column=3&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-al-khathlan&theme=nord&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Omar-Al-Khathlan?tab=repositories).
 
