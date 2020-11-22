@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Al-Khathlan</h1>
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-al-khathlan&theme=nord&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-al-khathlan&margin-w=15&margin-h=15" alt="omar-al-khathlan" /></a> </p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Omar-Al-Khathlan?tab=repositories).
 
@@ -26,5 +26,5 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-al-khathlan&show_icons=true&theme=nord&locale=en" alt="omar-al-khathlan" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-al-khathlan&show_icons=true&theme=nord&locale=en" alt="omar-al-khathlan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-al-khathlan&show_icons=true&locale=en" alt="omar-al-khathlan" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-al-khathlan&show_icons=true&locale=en" alt="omar-al-khathlan" /></p>
 
