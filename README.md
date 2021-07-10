@@ -39,6 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-al-khathlan&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="omar-al-khathlan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-al-khathlan&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="omar-al-khathlan" /></p>
-<p>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omar-Al-Khathlan&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
