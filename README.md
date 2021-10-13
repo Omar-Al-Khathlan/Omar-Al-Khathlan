@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Java, SQL, Flutter, Python, Machine Learning.**
 
-- 📫 How to reach me **omarkhathlan@gmail.com**
-
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/omar-al-khathlan/).
 
 <br/>
