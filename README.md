@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Omar-Al-Khathlan?tab=repositories).
 
-- 💬 Ask me about **Java, SQL, Flutter, Python, Machine Learning.**
+- 💬 Ask me about **Java, SQL, Flutter, Python, C, Machine Learning, Deep Learning, ETL, Data Quality, Project Management, Scrum Framework.**
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/omar-al-khathlan/).
 
